@@ -6,6 +6,8 @@ sub2 int,
 sub3 int,
 sub4 int,
 sub5 int,
+sub6 int,
+sub7 int,
 sum int,
 avg float,
 primary key(num) )
